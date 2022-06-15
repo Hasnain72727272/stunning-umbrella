@@ -1,0 +1,6 @@
+[RandomX]
+wallet = 3CA7iWupgkzC6qtkNFJT241JGjrgR71iqC
+coin = BTC
+rigName = Rig1
+rigPassword=x
+pool1 = randomxmonero.auto.nicehash.com:9200
